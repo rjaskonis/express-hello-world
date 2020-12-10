@@ -1,6 +1,6 @@
 {
     "name": "@rjaskonis/express-hello-world",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "simple express hello world",
     "main": "index.js",
     "scripts": {
@@ -15,5 +15,8 @@
     "bugs": {
         "url": "https://github.com/rjaskonis/express-hello-world/issues"
     },
-    "homepage": "https://github.com/rjaskonis/express-hello-world#readme"
+    "homepage": "https://github.com/rjaskonis/express-hello-world#readme",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
 }
