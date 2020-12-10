@@ -1,10 +1,11 @@
 {
     "name": "@rjaskonis/express-hello-world",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "description": "simple express hello world",
     "main": "index.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "publish": "git push && npm publish --access public"
     },
     "repository": {
         "type": "git",
