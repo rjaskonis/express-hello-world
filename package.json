@@ -1,0 +1,19 @@
+{
+    "name": "@rjaskonis/express-hello-world",
+    "version": "1.0.0",
+    "description": "simple express hello world",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/rjaskonis/express-hello-world.git"
+    },
+    "author": "Renne Jaskonis",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/rjaskonis/express-hello-world/issues"
+    },
+    "homepage": "https://github.com/rjaskonis/express-hello-world#readme"
+}
